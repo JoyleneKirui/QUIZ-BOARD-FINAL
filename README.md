@@ -5,9 +5,9 @@
 + [Description](#Description)
 + [Installation](#Installation)
 + [Technology Used](#Technology Used)
-+ [Known  Bugs](#Known Bugs)
++ [Known Bugs](#Known Bugs)
 + [Contributors](#Contributors)
-+ [Web design](#Web design)
++ [Web Design](#Web design)
 + [License](#License)
 
 ## Description
@@ -29,12 +29,13 @@ There are no known bugs
 ## Contributors
 Joylene Chepkoech Kirui
 
-
 ## Web Design
 https://www.figma.com/file/5kgYbgp7gmxTpCmG6wRpqV/Untitled?node-id=0%3A1
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
 
 OPEN SOURCE
 
