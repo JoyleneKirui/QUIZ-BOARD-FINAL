@@ -3,8 +3,8 @@
 ## Table of Content
 
 + [Description](#Description)
-+ [Installation Requirement]
-+ [Technology Used]
++ [Installation Requirement](#Installation Requirement)
++ [Technology Used](#Technology Used)
 + [Known  Bugs]
 + [Contributors]
 + [Web design]
