@@ -31,7 +31,6 @@ CSS
 There are no known bugs 
 
 ## Contributors
-Moringa School 
 Joylene Chepkoech Kirui
 
 
