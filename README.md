@@ -3,7 +3,7 @@
 ## Table of Content
 
 + [Description](#Description)
-+ [Installation Requirement](#Installation Requirement)
++ [Installation Requirement](#Installation)
 + [Technology Used](#Technology Used)
 + [Known  Bugs]
 + [Contributors]
@@ -15,10 +15,10 @@
 A website on which students may take the test is necessary in the context of launching an after-school computer club. They will complete multiple-choice questions on the internet and will be given a score after submitting their answers.
 
 
-## Installation
+## Installation 
 To access the quiz board, open your browser and put in the link URL.
 
-## Technologies used 
+## Technologies Used 
 HTML
 javascript
 CSS 
