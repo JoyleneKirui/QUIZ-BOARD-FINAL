@@ -34,7 +34,7 @@ let questions = [
         choice2: "Shift",
         choice3: "Slice",
         choice4: "Splice",
-        answer: 3,
+        answer: 4,
     },
     {
         question: "Inside which HTML element do we put the JavaScript",
