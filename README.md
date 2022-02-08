@@ -4,7 +4,7 @@
 
 + [Description](#Description)
 + [Installation](#Installation)
-+ [Technology Used](#Technology Used)
++ [Technologies Used](#Technologies Used)
 + [Known Bugs](#Known Bugs)
 + [Contributors](#Contributors)
 + [Web Design](#Web design)
