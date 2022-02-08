@@ -15,7 +15,7 @@ let questions = [
         question: 'What is console.log(2 + 2)?',
         choice1: '2',
         choice2: '4',
-        choice3: '22',
+        choice3: '0',
         choice4: '5',
         answer: 2,
     },
