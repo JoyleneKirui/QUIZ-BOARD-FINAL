@@ -2,7 +2,7 @@
 
 ## Table of Content
 
-+ [Description]
++ [Description](#Description)
 + [Installation Requirement]
 + [Technology Used]
 + [Known  Bugs]
@@ -10,7 +10,7 @@
 + [Web design]
 + [License]
 
-## DESCRIPTION OF THE PROJECT
+## Description
 
 A website on which students may take the test is necessary in the context of launching an after-school computer club. They will complete multiple-choice questions on the internet and will be given a score after submitting their answers.
 
