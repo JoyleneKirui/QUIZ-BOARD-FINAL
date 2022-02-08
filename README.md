@@ -7,7 +7,7 @@
 + [Technologies Used](#Technologies Used)
 + [Known Bugs](#Known Bugs)
 + [Contributors](#Contributors)
-+ [Web Design](#Web design)
++ [Web Design](#Web Design)
 + [License](#License)
 
 ## Description
