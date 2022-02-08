@@ -16,7 +16,7 @@ let questions = [
         choice1: '2',
         choice2: '4',
         choice3: '22',
-        choice4: '0',
+        choice4: '5',
         answer: 2,
     },
     {
