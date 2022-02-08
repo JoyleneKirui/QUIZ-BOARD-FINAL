@@ -3,12 +3,12 @@
 ## Table of Content
 
 + [Description](#Description)
-+ [Installation Requirement](#Installation)
++ [Installation](#Installation)
 + [Technology Used](#Technology Used)
-+ [Known  Bugs]
-+ [Contributors]
-+ [Web design]
-+ [License]
++ [Known  Bugs](#Known Bugs)
++ [Contributors](#Contributors)
++ [Web design](#Web design)
++ [License](#License)
 
 ## Description
 
