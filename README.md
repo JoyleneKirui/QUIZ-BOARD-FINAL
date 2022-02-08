@@ -1,9 +1,5 @@
 ## Quiz Board Final
 
-## JOYLENE CHEPKOECH KIRUI
-MORINGA SCHOOL MPP4 ACCESS
-SOFTWARE DEVELOPMENT
-
 ## Table of Content
 
 + [Description]
