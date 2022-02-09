@@ -4,10 +4,10 @@
 
 + [Description](#Description)
 + [Installation](#Installation)
-+ [Technologies Used](#Technologies Used)
-+ [Known Bugs](#Known Bugs)
++ [Technologies Used](#Technologies-Used)
++ [Known Bugs](#Known-Bugs)
 + [Contributors](#Contributors)
-+ [Web Design](#Web Design)
++ [Web Design](#Web-Design)
 + [License](#License)
 
 ## Description
